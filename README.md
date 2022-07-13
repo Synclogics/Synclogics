@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Synclogics
 - 👀 I’m interested in javascript. 
 - 🌱 I’m currently learning blockchain and GIS. 
-- 💞️ I’m looking to collaborate on an opensource project.
+- 💞️ I’m looking forward to contribute to an opensource project.
 - 📫 Reach me @synclogics on twitter.
 
 <!---
